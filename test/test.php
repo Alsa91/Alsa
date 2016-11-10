@@ -1,0 +1,2 @@
+<?php
+echo "Barca champion";
